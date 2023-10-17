@@ -1,6 +1,10 @@
-<p align="center">
-    <img src="./assets/metavagas.png" width="350px" alt="Descrição da imagem">
+<div style="background-color: black;">
+  <p align="center">
+      <img src="./assets/metavagas.png" width="350px" alt="Descrição da imagem" style="margin-top: 20px;">
   </p>
+</div>
+
+
   
 
 ## 📝Descrição do Projeto
