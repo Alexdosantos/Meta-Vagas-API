@@ -14,4 +14,6 @@ app.use(routers);
 
 const port = process.env.PORT || 3001;
 
-app.listen(port, () => `servidor está 🚀rodando na port ${port}`);
+app.listen(port, () => {
+    console.log("🚀🚀🚀 Servidor está  rodando na port",port)
+});
