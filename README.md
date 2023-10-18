@@ -52,8 +52,17 @@ A construção desta API visa proporcionar uma experiência completa e eficiente
 - [Vitest](https://vitest.dev/guide/coverage.html) Utilizado para testes automatizados, o Vitest permite a execução de testes de unidade e integração, garantindo a qualidade e a estabilidade da API Meta Vagas, e assegurando que todas as funcionalidades estejam funcionando conforme o esperado durante o desenvolvimento e implantação.
 
 - [Dotenv](https://www.npmjs.com/package/dotenv) é uma biblioteca de dependência leve que permite carregar variáveis de ambiente de arquivos .env em aplicativos Node.js. Com o Dotenv, os desenvolvedores podem configurar facilmente variáveis de ambiente específicas do ambiente de desenvolvimento, como chaves de API, senhas e outras configurações sensíveis, sem precisar expô-las no código fonte. Isso ajuda a proteger informações confidenciais e simplifica a configuração de aplicativos em diferentes ambientes de desenvolvimento.
+## 🚀 URL DA API PARA USAR DIRETO NO INSOMNIA OU POSTMAN
+``` bash 
+# URL DA API
+https://meta-vagas.cyclic.cloud/{"COLOQUE AS ROTAS AQUI"}
 
-## 🚀 Como Rodar o Projeto
+# AS ROTAS ESTÃO NA DESCRIÇÃO ABAIXO
+
+```
+
+
+## 🚀 Caso queira rodar o projeto em sua maquina , aqui estão os comandos 👇👇👇
 ``` bash 
 # Rodar o projeto
 npm run start:dev
